@@ -1,5 +1,6 @@
 #include<iostream>
-#include<string.h>
+#include<string.h> 
+#include<cstring>
 using namespace std;
 class person
 { int age; char name[20];
@@ -7,7 +8,7 @@ class person
 	person(int age=0, char *n="name")
 	{	
 	this->age=age;
-  strcpy(name,"temp");
+        strcpy(name,n);
 	}
 	void disp()
 	{ cout<<"youngest age: "<<age<<"and name:"<<name;
