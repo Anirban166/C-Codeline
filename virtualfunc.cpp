@@ -3,15 +3,14 @@ using namespace std;
 class Shape                   
 {
     public:
-   
-       virtual void calculateArea() = 0;
+    virtual void calculateArea() = 0;
 };
 
 class Square : public Shape
 {
-    public:
+       public:
        void calculateArea()
-       {   int s=50; cout<<s/5;  }
+       { int s=50; cout<<s/5; }
 };
 
 class Circle : public Shape
@@ -23,11 +22,9 @@ class Circle : public Shape
 
 int main()
 {
-    Square s;
-    Circle c;
-
-     s.calculateArea();
-   c.calculateArea();
+    Square s; Circle c;
+    s.calculateArea();
+    c.calculateArea();
 
     return 0;
 }
