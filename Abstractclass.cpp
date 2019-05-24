@@ -1,6 +1,6 @@
 #include<iostream>
 using namespace std;
-class Shape                   
+class Shape     //abstract class with no objects initialized.              
 {
     public:
     virtual void calculateArea() = 0;
