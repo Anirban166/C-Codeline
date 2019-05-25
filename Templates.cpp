@@ -13,6 +13,7 @@ class test
 };
 int main()
 { test<int>object1; test<float>object2;
+  object1.input(); object2.input();
   object1.disp(); object2.disp();
   return 0;
 } 
