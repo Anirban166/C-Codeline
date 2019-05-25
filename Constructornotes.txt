@@ -1,0 +1,33 @@
+types - (say for class X with data members int a,b)
+
+1.default - X() { a=0; b=0; }
+special case - x() { } //no body -> Do nothing constructor.
+
+2.parameterized - X(int x, int y) { a=x; b=y; }
+special case - x(int x) { x=a; } //only one data member initialized. -> object(1) gives 1,1 (copy constructor invoked)
+special case - x(int x, int y=0) { x=a; } //constructor with one default arg. -> object(1) gives 1,0. object(1,2) gives 1,2.
+
+3.copy - X(X &c) { a=c.a; b=c.b; } // needs an initialized object. -> X obj1(1,1); X obj2(obj1); -> obj2 gives 1,1.
+//if reference type object not provided it leads to an infinite loop.
+
+Dynamic constructor -
+Allocate required amount of memory only during runtime or creation of objects.
+Using strings with a fixed array size but variable input is the best case example.
+
+class A
+{
+      char *name;
+      int len;
+   public:56
+   A() //def
+  {
+       len=0;
+       name=new char[len+1]; 
+   }
+   A(char *s)  //dynamic constructor
+   {
+       len=strlen(s);
+       name=new char[len+1];
+       strcpy(name,s);
+   } 
+--------------------------------------------------------------------------------------------------------------------------------
