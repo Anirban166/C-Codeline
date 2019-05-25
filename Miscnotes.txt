@@ -1,0 +1,30 @@
+Derived class can call base class constructor/destructor.
+As long as no base class contructor takes any arguments, the derived class need not have a constructor function.
+Destructors are called in reverse order of constructors. (like function calls, last to first approach)
+Destructors can be virtual, cons cant. Only one des exists in a class, while there may be multiple cons.  
+Static/early/compile-time binding/method overloading - for same class.
+Dynamic/late/run-time binding/method overriding - for different classes.
+Hence dynamic polymorphism is achieved via Inheritance. (use virtual functions)
+Classes with pure virtual functions -> Abstract class, under condition no objects made.
+member func -> c=c.sum(a,b); friend func -> c=sum(a,b); //ff normal func invoke.
+nested member func eg :-
+class X{
+		int a;
+		void disp(int b){
+			a=b;
+			cout<<a;
+		}
+	public:
+		void call_disp(int c){
+			disp(c);
+		}
+};
+int main(){
+	X obj;  
+	obj.call_disp(12); return 0; //12
+}
+When class is defined memory is allocated for member functions but not for member variables. Objects -> memory for data members.
+Interchangeable terms - static/class ; virtual public/public virtual.
+for pointers to objects, say for a class T (2 data members say x,y) : T obj1,*obj2; obj2=&obj1; obj2->intake(1,1); //arrow used for func
+
+Thats it, all the best folks ~
