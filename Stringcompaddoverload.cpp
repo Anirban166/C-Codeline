@@ -7,16 +7,20 @@ class string
 { char str[MAX];
   public: void input()
           { cout<<"Enter a string \n";
-		   cin>>str;
-		  }
+            cin>>str;
+          }
+ 
   void display()
   {cout<<"your string is :"<<str<<endl;
   }
+ 
   int operator==(string s2)
   { if(strcmp(str,s2.str)==0)
      return 1; 
-	 else return 0;
+     else 
+     return 0;
   }
+ 
   string operator+(string s2)
   { string s3;
     strcpy(s3.str,str);
@@ -24,6 +28,7 @@ class string
     return s3;
   }
 };
+
 int main()
 { 
  string s1,s2,s3;
