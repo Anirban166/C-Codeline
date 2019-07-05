@@ -29,6 +29,6 @@ int main()
   t1.settime(2,30);
   t2.settime(3,30);
   t3=t2.addtime(t1);
-  t1.display(); cout<<"\n res \n"; t3.display();
+  cout<<"\n resultant time :\n"; t3.display();
 return 0;
 }
