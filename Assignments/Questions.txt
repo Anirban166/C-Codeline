@@ -1,5 +1,5 @@
 
-Questions:
+Assignment Questions:
 
 (1) Class Bank with customer details (name,balance,id) and functions (transfer,display).
 
