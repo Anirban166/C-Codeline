@@ -31,4 +31,4 @@ int main()
   t3=t2.addtime(t1);
   cout<<"\n resultant time :\n"; t3.display();
 return 0;
-}
+} 
