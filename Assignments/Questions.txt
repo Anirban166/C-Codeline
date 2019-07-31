@@ -5,4 +5,4 @@ Assignment Questions:
 
 (2) Hybrid inheritance and use of virtual classes via classes person->account,admin->master.
 
-(3) Calculate tax for employee class (clerk-10%,faculty-20%,lab assistant-15%).
+(3) Calculate tax for employee class (clerk-10%,faculty-20%,lab assistant-15%). 
