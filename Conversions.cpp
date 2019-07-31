@@ -35,7 +35,7 @@ class cgs
   // mks units: metre,kilogram,second.(length,weight,time)
   float m,kg,sec; 
   public:
-  //Default constructor
+  //Default constructor 
   mks()
   { m=0; kg=0; sec=0;
   }
