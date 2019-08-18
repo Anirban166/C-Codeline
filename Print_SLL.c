@@ -31,4 +31,13 @@ func(node *t)
   }
 } 
 
+//Recursive function to display the elements in reverse order of a SLL:
+func(node *t)
+{ if(root!=NULL) //if(root)
+  { func(t->next);
+    printf("%d->",t->data);
+  }
+} 
+ 
+
 
