@@ -6,13 +6,13 @@ struct x
 typedef struct x node;
 node *root=NULL,*rear=NULL;
 
-//Function to delete a node from any given position in of a CLL:
+//Function to display elements in the CLL:
 func()
-{ node *t=root;
-  while(t->next!=root)
-  { node *k=t; //k will stop at last node, before root.
+{ node *t=root->next;
+  while(t!=root) //loop stops at root.
+  { printf("%d"->"t->data);
     t=t->next;
   }
-  k->next=root; //Link up next before deletion.
-  free(k);
+  printf("%d",t->data); //to print root->data.
 }
+           
