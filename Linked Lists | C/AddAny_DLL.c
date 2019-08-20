@@ -28,7 +28,7 @@ func()
       if(c==pos-1)
       { N->next=t->next;
         t->next->prev=N;
-        t->next=N;
+        t->next=N; 
         N->prev=t;
       }
     }
