@@ -29,6 +29,6 @@ func(node *t)
 { if(root!=NULL) //if(root)
   { func(t->next);
     printf("%d<->",t->data);
-  }
+  } 
 } 
  
