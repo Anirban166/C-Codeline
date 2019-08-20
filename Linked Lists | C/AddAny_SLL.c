@@ -24,6 +24,6 @@ func()
     //N will be inserted in between t(left) and t->next(right)
     N->next=t->next; //link N->next to t->next (right of N)
     t->next=N; //link t->next(left of N) to N.
-   }
+   } 
 } 
  
