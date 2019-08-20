@@ -16,3 +16,4 @@ func()
   t->next=t->next->next;
   free(temp);
 }
+ 
