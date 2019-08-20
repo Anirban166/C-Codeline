@@ -6,7 +6,7 @@ struct x
 node *top=NULL;
 
 //Push function:
-push()
+push() 
 { int n;
   node *N;
   N=(node*)malloc(sizeof(node));
