@@ -1,3 +1,11 @@
+//Structure:
+{ int data;
+  struct x*next;
+};
+typedef struct x node;
+node *root=NULL;
+
+//function to search for an element in a SLL:
 func()
 { node *t=root;
   int c=0, x;
