@@ -1,7 +1,7 @@
 //Only for sorted array
 //Time complexity reduced by half as compared to linear search
 
-#include<stdio.h>
+#include<stdio.h>  
 int main()
 { int n,a[10],mid,i,beg,end;
   print("Enter no. of elements\n");
