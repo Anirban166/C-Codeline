@@ -23,8 +23,9 @@ class Circle : public Shape
 int main()
 {
     Square s; Circle c;
-    s.calculateArea();
+    s.calculateArea(); 
     c.calculateArea();
 
     return 0;
 }
+ 
