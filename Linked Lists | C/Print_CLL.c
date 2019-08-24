@@ -1,5 +1,5 @@
 //Structure:
-struct x
+struct x 
 { int data;
   struct x *next;
 };
