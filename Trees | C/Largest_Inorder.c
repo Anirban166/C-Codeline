@@ -37,8 +37,6 @@ void main()
     largest(root);
 }
 
-/* displaying nodes of a tree using inorder */
-
 void inorder(node *root)
 {
     if (root != NULL)
