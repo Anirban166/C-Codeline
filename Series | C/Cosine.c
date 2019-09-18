@@ -2,8 +2,8 @@
 
 /* Assuming that the angle entered by user is between 0 and 2 pi radians (0 and 360 degrees) */
 
-#include  <stdio.h>
-#include  <conio.h>
+#include<stdio.h>
+#include<conio.h>
 #define  pi  3.141593
 
 void main()
