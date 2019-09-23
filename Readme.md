@@ -1,8 +1,8 @@
 All things C/C++ :
 --
-Content :
+Contents :
 ```
-Basics | LinkedLists | Graphs | Trees | Templates | Combinatorials | Series | Sorts | Complex Algorithms 
+Basics | LinkedLists | Graphs | Trees | Templates | Combinatorials | Series | Sorts | Complex Algorithms | Ciphers
 ```
 <img src="Images/caesar_cipher.png">
 <img src="Images/comb.png" width="55%">
