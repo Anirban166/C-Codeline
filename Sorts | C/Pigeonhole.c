@@ -2,7 +2,7 @@
 #define MAX 7
 
 void pigeonhole_sort(int, int, int *);
-void main()
+void main() 
 {
     int a[MAX], i, min, max;
     printf("enter the values into the matrix :");
