@@ -2,7 +2,7 @@ All things C/C++
 --
 Contents :
 ```
-Basics | Linked Lists | Graphs | Trees | Templates | Combinatorials | Series | Sorts | Complex Algorithms | Ciphers | Computational Maths
+Basics | Linked Lists | Graphs | Trees | Templates | Combinatorials | Series | Sorts | Complex Algorithms | Ciphers | Numerics | Computational Maths
 ```
 <img src="Images/caesar_cipher.png">
 <img src="Images/comb.png" width="55%">
