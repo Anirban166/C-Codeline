@@ -31,7 +31,7 @@ int MatrixChainOrder(int p[], int n)
                                     s[i][j] = k;
                                 }
                         }
-                }
+                } 
         }
     return m[1][n - 1];
 }
