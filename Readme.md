@@ -1,14 +1,10 @@
 All things C/C++
 --
-Content Navigation :
+Contents :
 ---
-* [Ciphers (C++)](https://github.com/Anirban166/C-Codeline/tree/master/Ciphers%20%7C%20C%2B%2B)
+- [Ciphers (C++)](https://github.com/Anirban166/C-Codeline/tree/master/Ciphers%20%7C%20C%2B%2B)      | - [Combinatorials (C++)](https://github.com/Anirban166/C-Codeline/tree/master/Combinatorials%20%7C%20C%2B%2B)
 
-- [Combinatorials (C++)](https://github.com/Anirban166/C-Codeline/tree/master/Combinatorials%20%7C%20C%2B%2B)
-
-- [Computational Maths (C++)](https://github.com/Anirban166/C-Codeline/tree/master/Computational%20Maths%20%7C%20C%2B%2B)
-
-- [Linked Lists (C)](https://github.com/Anirban166/C-Codeline/tree/master/Linked%20Lists%20%7C%20C)
+- [Computational Maths (C++)](https://github.com/Anirban166/C-Codeline/tree/master/Computational%20Maths%20%7C%20C%2B%2B) | - [Linked Lists (C)](https://github.com/Anirban166/C-Codeline/tree/master/Linked%20Lists%20%7C%20C)
 
 - [Misc (C++)](https://github.com/Anirban166/C-Codeline/tree/master/Misc%20%7C%20C%2B%2B)
 
