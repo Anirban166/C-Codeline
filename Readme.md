@@ -1,14 +1,10 @@
 Contents :
 ---
-- [Ciphers (C++)](https://github.com/Anirban166/C-Codeline/tree/master/Ciphers%20%7C%20C%2B%2B) | [Combinatorials (C++)](https://github.com/Anirban166/C-Codeline/tree/master/Combinatorials%20%7C%20C%2B%2B) | [Computational Maths (C++)](https://github.com/Anirban166/C-Codeline/tree/master/Computational%20Maths%20%7C%20C%2B%2B) | 
+- [Ciphers (C++)](https://github.com/Anirban166/C-Codeline/tree/master/Ciphers%20%7C%20C%2B%2B) | [Combinatorials (C++)](https://github.com/Anirban166/C-Codeline/tree/master/Combinatorials%20%7C%20C%2B%2B) | [Computational Maths (C++)](https://github.com/Anirban166/C-Codeline/tree/master/Computational%20Maths%20%7C%20C%2B%2B) | [Numerics (C)](https://github.com/Anirban166/C-Codeline/tree/master/Numerics%20%7C%20C) 
 
-- [Linked Lists (C)](https://github.com/Anirban166/C-Codeline/tree/master/Linked%20Lists%20%7C%20C) | [Trees (C)](https://github.com/Anirban166/C-Codeline/tree/master/Trees%20%7C%20C) | [NP-Hard Graph (C++)](https://github.com/Anirban166/C-Codeline/tree/master/NP-Hard%20Graph%20%7C%20C%2B%2B)
+- [Series (C)](https://github.com/Anirban166/C-Codeline/tree/master/Series%20%7C%20C) | [Sorts (C++)](https://github.com/Anirban166/C-Codeline/tree/master/Sorts%20%7C%20C%2B%2B) | [Sorts (C)](https://github.com/Anirban166/C-Codeline/tree/master/Sorts%20%7C%20C) | [Recursive Sorts (C)](https://github.com/Anirban166/C-Codeline/tree/master/Recursive%20Sorts%20%7C%20C)
 
-- [Misc (C++)](https://github.com/Anirban166/C-Codeline/tree/master/Misc%20%7C%20C%2B%2B) | [Misc (C)](https://github.com/Anirban166/C-Codeline/tree/master/Misc%20%7C%20C)
-
-- [Sorts (C++)](https://github.com/Anirban166/C-Codeline/tree/master/Sorts%20%7C%20C%2B%2B) | [Sorts (C)](https://github.com/Anirban166/C-Codeline/tree/master/Sorts%20%7C%20C) | [Recursive Sorts (C)](https://github.com/Anirban166/C-Codeline/tree/master/Recursive%20Sorts%20%7C%20C)
-
-- [Numerics (C)](https://github.com/Anirban166/C-Codeline/tree/master/Numerics%20%7C%20C) | [Series (C)](https://github.com/Anirban166/C-Codeline/tree/master/Series%20%7C%20C)
+- [Linked Lists (C)](https://github.com/Anirban166/C-Codeline/tree/master/Linked%20Lists%20%7C%20C) | [Trees (C)](https://github.com/Anirban166/C-Codeline/tree/master/Trees%20%7C%20C) | [NP-Hard Graph (C++)](https://github.com/Anirban166/C-Codeline/tree/master/NP-Hard%20Graph%20%7C%20C%2B%2B) | [Misc (C++)](https://github.com/Anirban166/C-Codeline/tree/master/Misc%20%7C%20C%2B%2B) | [Misc (C)](https://github.com/Anirban166/C-Codeline/tree/master/Misc%20%7C%20C)
 
 <img src="Images/caesar_cipher.png">
 <img src="Images/comb.png" width="55%">
