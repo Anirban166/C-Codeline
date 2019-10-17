@@ -2,11 +2,11 @@ Contents :
 ---
 - [Ciphers (C++)](https://github.com/Anirban166/C-Codeline/tree/master/Ciphers%20%7C%20C%2B%2B) | [Combinatorials (C++)](https://github.com/Anirban166/C-Codeline/tree/master/Combinatorials%20%7C%20C%2B%2B) | [Computational Maths (C++)](https://github.com/Anirban166/C-Codeline/tree/master/Computational%20Maths%20%7C%20C%2B%2B) | [Numerics (C)](https://github.com/Anirban166/C-Codeline/tree/master/Numerics%20%7C%20C) 
 __________________________________________________________________________________
-| Ciphers (C++)/ Numerics (C) / NP-Hard Graph (C++)  / Computational Maths (C++) | 
+Ciphers (C++) -/ Numerics (C) / NP-Hard Graph (C++) --/ Computational Maths (C++) 
 
-Trees (C)   / Misc (C++)   /----/ Anirban166 /----/ Linked Lists (C)    / Misc (C)
+Trees (C) ---/ Misc (C++) --/----/ Anirban166 /----/ Linked Lists (C) ---/ Misc (C)
 
-Series (C) / Sorts (C++)  / Combinatorials (C++) / Recursive Sorts (C) / Sorts (C)
+Series (C) / Sorts (C++) -/ Combinatorials (C++) / Recursive Sorts (C) / Sorts (C)
 
 
 
