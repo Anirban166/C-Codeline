@@ -1,8 +1,14 @@
 Contents :
 ---
-```
 - [Ciphers (C++)](https://github.com/Anirban166/C-Codeline/tree/master/Ciphers%20%7C%20C%2B%2B) | [Combinatorials (C++)](https://github.com/Anirban166/C-Codeline/tree/master/Combinatorials%20%7C%20C%2B%2B) | [Computational Maths (C++)](https://github.com/Anirban166/C-Codeline/tree/master/Computational%20Maths%20%7C%20C%2B%2B) | [Numerics (C)](https://github.com/Anirban166/C-Codeline/tree/master/Numerics%20%7C%20C) 
-```
+
+ _Ciphers (C++)/ Numerics (C) / NP-Hard Graph (C++)  / Computational Maths (C++) __
+|Trees (C)   / Misc (C++)   /----/ Anirban166 /----/ Linked Lists (C)    / Misc (C)|
+|Series (C) / Sorts (C++)  / Combinatorials (C++) / Recursive Sorts (C) / Sorts (C)|
+|__________________________________________________________________________________|
+
+
+
 
 - [Linked Lists (C)](https://github.com/Anirban166/C-Codeline/tree/master/Linked%20Lists%20%7C%20C) | [Trees (C)](https://github.com/Anirban166/C-Codeline/tree/master/Trees%20%7C%20C) | [NP-Hard Graph (C++)](https://github.com/Anirban166/C-Codeline/tree/master/NP-Hard%20Graph%20%7C%20C%2B%2B) | [Misc (C++)](https://github.com/Anirban166/C-Codeline/tree/master/Misc%20%7C%20C%2B%2B) | [Misc (C)](https://github.com/Anirban166/C-Codeline/tree/master/Misc%20%7C%20C)
 
